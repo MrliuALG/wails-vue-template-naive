@@ -1,11 +1,13 @@
 # Wails 3 + Vue 3 + Naive UI 模板
 
+[![GitHub](https://camo.githubusercontent.com/a4fe5f7c273420c742c6307782a5a9f94dba2ed9d7eb047281407f7e13897dff/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7761696c736170702f7761696c73)](https://github.com/wailsapp/wails/blob/master/LICENSE)
+
+[English](https://github.com/MrliuALG/wails-vue-template-naive/blob/main/README.md) · [简体中文](https://github.com/MrliuALG/wails-vue-template-naive/blob/main/README_Zh-CN.md)
+
 这是一个基于 **Wails v3** 框架的现代化桌面应用开发模板，集成了以下核心技术栈：
 
 - [Wails v3 官网](https://v3alpha.wails.io/)
 - [Naive UI 官网](https://www.naiveui.com/)
-
-[wails3官网](https://v3alpha.wails.io/)
 
 ## ✨ 特性
 

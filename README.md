@@ -1,9 +1,13 @@
 # Wails 3 + Vue 3 + Naive UI Template
 
+[![GitHub](https://camo.githubusercontent.com/a4fe5f7c273420c742c6307782a5a9f94dba2ed9d7eb047281407f7e13897dff/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f7761696c736170702f7761696c73)](https://github.com/wailsapp/wails/blob/master/LICENSE)
+
+[English](https://github.com/MrliuALG/wails-vue-template-naive/blob/main/README.md) · [简体中文](https://github.com/MrliuALG/wails-vue-template-naive/blob/main/README_Zh-CN.md)
+
 A modern desktop application development template based on **Wails v3** framework with the following core technologies:
 
-- Wails v3 Official
-- Naive UI Official
+- [Wails v3 Official](https://v3alpha.wails.io/)
+- [Naive UI Official](https://www.naiveui.com/)
 
 ## ✨ Features
 
@@ -14,8 +18,6 @@ A modern desktop application development template based on **Wails v3** framewor
 - ✅ **Vue Router** - Routing management
 - ✅ **Theme Toggle** - Dark/Light themes with auto-persistence
 - ✅ **Auto-import** - Naive UI components auto-imported
-- ✅ **TypeScript Support** - Full type system
-- ✅ **Responsive Design** - Mobile-friendly
 
 ## 🚀 Quick Start
 
