@@ -1,0 +1,24 @@
+# Dependencies
+frontend/node_modules/
+frontend/dist/
+
+# Build outputs
+bin/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Auto-generated files
+frontend/src/auto-imports.d.ts
+frontend/src/components.d.ts

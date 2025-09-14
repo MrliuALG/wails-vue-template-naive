@@ -1,0 +1,8 @@
+{
+  "name": "wails-vue-template-naive",
+  "description": "Wails template with Vue 3, Naive UI, Pinia and Vue Router",
+  "version": "1.0.0",
+  "author": "MrliuALG",
+  "language": "vue",
+  "framework": "vue"
+}
